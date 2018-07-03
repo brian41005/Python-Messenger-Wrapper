@@ -1,0 +1,14 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.pythonPath": "C:\\Python36\\python.exe",
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}
