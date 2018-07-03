@@ -5,7 +5,7 @@ An unofficial Facebook Messenger Wrapper for Python.
 # Installation
 
 ```
-pip install messenger-wrapper
+pip install messengerwrapper
 ```
 # Developping
 for developer

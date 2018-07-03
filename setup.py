@@ -17,7 +17,7 @@ class Clean(Command):
 
 
 setup(
-    name='messenger-wrapper',
+    name='messengerwrapper',
     version='0.0.1.dev1',
     license='LICENSE',
     description='An unofficial Facebook Messenger Wrapper for Python.',
